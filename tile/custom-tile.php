@@ -165,12 +165,12 @@ function zume_coaching_checklist_items() : array {
             'url' => 'https://zume.training/coaching-checklist/',
             'type' => 'tool'
         ],
-        28 => [
-            'label' => _x( "Leadership in Networks", "coaching checklist", 'zume-coaching-checklist' ),
-            'description' => "Learn how multiplying churches stay connected and live life together as an extended, spiritual family.",
-            'url' => 'https://zume.training/leadership-in-networks/',
-            'type' => 'concept'
-        ],
+//        28 => [
+//            'label' => _x( "Leadership in Networks", "coaching checklist", 'zume-coaching-checklist' ),
+//            'description' => "Learn how multiplying churches stay connected and live life together as an extended, spiritual family.",
+//            'url' => 'https://zume.training/leadership-in-networks/',
+//            'type' => 'concept'
+//        ],
         29 => [
             'label' => _x( "Peer Mentoring Group", "coaching checklist", 'zume-coaching-checklist' ),
             'description' => "This is a group that consists of people who are leading and starting 3/3 Groups. It also follows a 3/3 format and is a powerful way to assess the spiritual health of God’s work in your area.",
@@ -183,12 +183,12 @@ function zume_coaching_checklist_items() : array {
             'url' => 'https://zume.training/four-fields-tool/',
             'type' => 'tool'
         ],
-        31 => [
-            'label' => _x( "Generational Mapping", "coaching checklist", 'zume-coaching-checklist' ),
-            'description' => "Generation mapping is another simple tool to help leaders in a movement understand the growth around them.",
-            'url' => 'https://zume.training/generational-mapping/',
-            'type' => 'tool'
-        ],
+//        31 => [
+//            'label' => _x( "Generational Mapping", "coaching checklist", 'zume-coaching-checklist' ),
+//            'description' => "Generation mapping is another simple tool to help leaders in a movement understand the growth around them.",
+//            'url' => 'https://zume.training/generational-mapping/',
+//            'type' => 'tool'
+//        ],
     ];
 }
 
