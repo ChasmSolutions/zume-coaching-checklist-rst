@@ -3,7 +3,7 @@
  * Plugin Name: Zúme - Coaching Checklist (RST)
  * Plugin URI: https://github.com/ChasmSolutions/zume-coaching-checklist-rst
  * Description: Zúme - Coaching Checklist add a tile to contacts for tracking Hearing, Obeying, Sharing, Training competence of Zúme concepts
- * Text Domain: zume-coaching-checklist
+ * Text Domain: zume-coaching-checklist-rst
  * Domain Path: /languages
  * Version:  0.7
  * Author URI: https://github.com/DiscipleTools
