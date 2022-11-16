@@ -275,7 +275,7 @@ class Zume_Coaching_Checklist_Magic_Link extends DT_Magic_Url_Base {
                             <h2><strong>W</strong>atch</h2>
                         </div>
                         <div class="cell small-7">
-                            Coach watches the mentee apply concept or skill be practiced. The mentee leads.
+                            Coach watches the mentee practice the concept or skill. The mentee leads.
                         </div>
                         <div class="cell small-1">
                             <button type="button" class="dt_multi_select empty-select-button select-button button" style="padding:5px" >L</button>
