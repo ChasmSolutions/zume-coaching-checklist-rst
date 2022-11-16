@@ -257,7 +257,7 @@ class Zume_Coaching_Checklist_Magic_Link extends DT_Magic_Url_Base {
                             <h2><strong>M</strong>odel</h2>
                         </div>
                         <div class="cell small-7">
-                            Have you heard about the concept or skill? (If not, you can click the link and review.)
+                            Coach shows the mentee a concept or skill.
                         </div>
                         <div class="cell small-1">
                             <button type="button" class="dt_multi_select empty-select-button select-button button" style="padding:5px" >A</button>
@@ -266,7 +266,7 @@ class Zume_Coaching_Checklist_Magic_Link extends DT_Magic_Url_Base {
                             <h2><strong>A</strong>ssist</h2>
                         </div>
                         <div class="cell small-7">
-                            Obeying a skill is to practice it. Obeying a concept is to accept it as good and right.
+                            Coach helps mentee implement the concept or skill.
                         </div>
                         <div class="cell small-1">
                             <button type="button" class="dt_multi_select empty-select-button select-button button" style="padding:5px" >W</button>
@@ -275,7 +275,7 @@ class Zume_Coaching_Checklist_Magic_Link extends DT_Magic_Url_Base {
                             <h2><strong>W</strong>atch</h2>
                         </div>
                         <div class="cell small-7">
-                            Have you shared the concept or skill with others?
+                            Coach watches the mentee apply concept or skill be practiced. The mentee leads.
                         </div>
                         <div class="cell small-1">
                             <button type="button" class="dt_multi_select empty-select-button select-button button" style="padding:5px" >L</button>
@@ -284,7 +284,7 @@ class Zume_Coaching_Checklist_Magic_Link extends DT_Magic_Url_Base {
                             <h2><strong>L</strong>aunch</h2>
                         </div>
                         <div class="cell small-7">
-                            Have you trained someone else in the concept or skill?
+                            The mentee is fully capable. The coach can move on.
                         </div>
                     </div>
                 </div>
