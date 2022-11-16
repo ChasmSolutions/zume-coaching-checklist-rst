@@ -194,10 +194,10 @@ function zume_coaching_checklist_items() : array {
 
 function zume_coaching_checklist_options() : array {
     return [
-        "h" => [ "label" => _x( "H", "Coaching Checklist Initial for: Heard", 'zume-coaching-checklist' ) ],
-        "o" => [ "label" => _x( "O", "Coaching Checklist Initial for: Obeying", 'zume-coaching-checklist' ) ],
-        "s" => [ "label" => _x( "S", "Coaching Checklist Initial for: Sharing", 'zume-coaching-checklist' ) ],
-        "t" => [ "label" => _x( "T", "Coaching Checklist Initial for: Training", 'zume-coaching-checklist' ) ],
+        "h" => [ "label" => _x( "M", "Coaching Checklist Initial for: Model", 'zume-coaching-checklist' ) ],
+        "o" => [ "label" => _x( "A", "Coaching Checklist Initial for: Assist", 'zume-coaching-checklist' ) ],
+        "s" => [ "label" => _x( "W", "Coaching Checklist Initial for: Watch", 'zume-coaching-checklist' ) ],
+        "t" => [ "label" => _x( "L", "Coaching Checklist Initial for: Leave/Launch", 'zume-coaching-checklist' ) ],
     ];
 }
 
